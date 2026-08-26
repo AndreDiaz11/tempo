@@ -88,7 +88,7 @@ android {
         applicationId "com.local.tempo"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 17
+        versionCode 18
         versionName packageJsonVersion
     }
     signingConfigs {
